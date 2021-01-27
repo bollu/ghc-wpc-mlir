@@ -1,0 +1,3 @@
+[submodule "mlir-hs"]
+	path = mlir-hs
+	url = git@github.com:bollu/mlir-hs.git

@@ -1,0 +1,4 @@
+packages: 
+    ./mlir-hs
+    ./ghc-wpc-mlir
+
